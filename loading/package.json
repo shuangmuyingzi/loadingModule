@@ -1,6 +1,6 @@
 {
   "name": "loading-ling-zi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "loading vue component",
   "main": "src/loading.vue",
   "scripts": {

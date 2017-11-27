@@ -1,4 +1,4 @@
-# load-ling-zi
+# loading-ling-zi
 
 > A loading component
 
@@ -6,7 +6,7 @@
 
 ``` bash
 # install dependencies
-npm install load-ling-zi -D
+npm install loading-ling-zi -D
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ npm install load-ling-zi -D
 </loading>
 
 <script>
-    import loading from 'load-ling-zi'
+    import loading from 'loading-ling-zi'
     export default {
         components: {
             loading:loading
