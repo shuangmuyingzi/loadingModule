@@ -1,0 +1,11 @@
+{
+  "name": "loading-ling-zi",
+  "version": "1.0.0",
+  "description": "loading vue component",
+  "main": "src/loading.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lingzi",
+  "license": "ISC"
+}
